@@ -1,0 +1,15 @@
+package me.dio.academia.digital.repository;
+
+import me.dio.academia.digital.entity.Aluno;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.time.LocalDate;
+import java.util.List;
+
+@Repository
+public interface AlunoRepository extends JpaRepository<Aluno, Long> {
+    //findBy"QualquerCoisa" faz um filtro dos alunos conforme o atributo
+    List<Aluno> findByDataDeNascimento(LocalDate localDate);
+    // o JpaRepository já tem vários métodos que será usasdo em "AlunoRepository"
+}
