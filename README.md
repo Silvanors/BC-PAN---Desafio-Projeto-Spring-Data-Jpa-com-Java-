@@ -1,5 +1,5 @@
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
-<p> Este desafio de projeto foi tutoriado pela e disponibilizado por [cami-la] <a href= "https://www.linkedin.com/in/cami-la/">https://www.linkedin.com/in/cami-la/</a></li>  <strong>
+<p> Este desafio de projeto foi apresentado e disponibilizado pela instrutora [cami-la] <a href= "https://www.linkedin.com/in/cami-la/">https://www.linkedin.com/in/cami-la/</a></li>  <strong>
 para para possibilitar o conhecendo e desenvolvimento do Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
